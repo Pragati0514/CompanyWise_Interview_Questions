@@ -1,0 +1,39 @@
+Palo Alto Interview Experience Package range : 16-54 LPA. Role : QA
+Round 1 – Technical Discussion (~1 Hour)
+Self-introduction.
+Interviewer picked my first project mentioned during the introduction.
+Discussed the project architecture and overall workflow.
+Explained my role and contributions to the project.
+Questions related to the Regex patterns used in the project.
+Explained Retrieval-Augmented Generation (RAG) with complete flow and architecture.
+Discussion on encryption techniques and the impact of Quantum Computing on modern encryption methods.
+Detailed discussion on my second project, including its objectives and implementation.
+Questions on asynchronous workflows and their working mechanism.
+Explained asynchronous event loops, cooperative scheduling, and wrote a code example to demonstrate the concept.
+Object-Oriented Programming (OOP) concepts (Java-based discussion).
+Explained abstraction in detail, including its purpose and real-world significance.
+Opportunity to ask questions to the interviewer.
+
+Round 2 – Deep Technical Round (~1 Hour 15 Minutes)
+Discussion on open-source contributions.
+How I managed 50+ contributors/issues in the project.
+How I handled and managed pull request merges.
+Parameters and best practices considered before merging code.
+Discussion on writing production-grade, high-quality code.
+Deep dive into my primary project.
+Questions regarding the user base and adoption of CamouChat.
+Motivation behind building the project.
+Discussion on project limitations, flaws, and possible alternatives/improvements.
+Detailed architecture discussion of the project.
+Explained what happens internally when a user enters a URL such as "google.com" in a browser.
+Solved a DSA problem based on Min-Max Parity and Game Theory. The interviewer kept adding new constraints every 10 minutes to test problem-solving adaptability.
+Opportunity to ask questions to the interviewer.
+
+Round 3 – Discussion with Engineering Leader (~35 Minutes)
+Self-introduction.
+Detailed explanation of the CamouChat project.
+Project architecture and end-to-end workflow discussion.
+Two Python coding questions (logic-based, not DSA-oriented).
+Discussion on how I came up with the idea for CamouChat and the motivation behind building it.
+Opportunity to ask questions to the engineering leader.
+
